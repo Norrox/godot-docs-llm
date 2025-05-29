@@ -1,0 +1,4 @@
+.DS_List
+godot-docs
+dist
+node_modules

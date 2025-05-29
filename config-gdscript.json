@@ -1,0 +1,13 @@
+{
+	"excludedDirectories": ["about", "community", "contributing", "tutorials"],
+	"godotDocsPath": "./godot-docs",
+	"outputFile": "./godot-gdscript-llm.md",
+	"concurrency": 25,
+	"language": "gdscript",
+	"git": {
+		"enabled": true,
+		"repository": "https://github.com/godotengine/godot-docs.git",
+		"branch": "master",
+		"autoUpdate": true
+	}
+} 
