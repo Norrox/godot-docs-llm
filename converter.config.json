@@ -1,13 +1,13 @@
 {
-	"excludedDirectories": [ "about", "community", "contributing", "tutorials" ],
+	"excludedDirectories": ["about", "community", "contributing", "tutorials"],
 	"godotDocsPath": "./godot-docs",
-	"outputFile": "./godot-llm.md",
+	"outputFile": "./godot-csharp-llm.md",
 	"concurrency": 25,
-	"language": "both",
+	"language": "csharp",
 	"git": {
 		"enabled": true,
 		"repository": "https://github.com/godotengine/godot-docs.git",
 		"branch": "master",
 		"autoUpdate": true
 	}
-}
+} 
